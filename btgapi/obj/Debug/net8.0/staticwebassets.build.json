@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EtZqirYVCD3A0+nX2w51jHQ1X0qo55pwN54kdAZm2Ag=",
+  "Source": "btgapi",
+  "BasePath": "_content/btgapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
